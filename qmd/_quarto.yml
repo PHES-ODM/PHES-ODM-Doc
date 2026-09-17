@@ -4,8 +4,8 @@ project:
 
 book:
   title: "Public Health Environmental Surveillance Open Data Model (PHES-ODM) Documentation"
-  output-file: "ODM-documentation-v2.1.1"
-  version: "2.1.1"
+  output-file: "ODM-documentation-v3.0.1"
+  version: "3.0.1"
   date: last-modified
   date-format: iso
   license: CC 4.0 BY-SA

@@ -12,7 +12,7 @@ parts <- list(
     )
   ),
   part_label = list(
-    name = "partLabel"
+    name = "label"
   ),
   part_description = list(
     name = "partDesc"
@@ -57,7 +57,7 @@ parts <- list(
     name = "aggregationScale"
   ),
   quality_set = list(
-    name = "qualitySet"
+    name = "qualityIndSet"
   ),
   reference_link = list(
     name = "refLink"
