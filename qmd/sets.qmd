@@ -218,7 +218,7 @@ for (category_set_ID in unique_category_set_IDs) {
   category_input[["partLabel"]] <-
     category_info[[parts$part_label$name]]
   category_input[["partInstr"]] <-
-    category_info[[parts$part_instruction]]
+    category_info[[parts$part_instruction$name]]
   category_input[["partDesc"]] <-
     category_info[[parts$part_description$name]]
   

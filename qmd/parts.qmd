@@ -98,7 +98,7 @@ for (part_row_index in seq_len(nrow(parts_table))) {
   display_input[["minLength"]] <- part_row[[parts$min_length$name]]
   display_input[["maxLength"]] <- part_row[[parts$max_length$name]]
   display_input[["status"]] <- part_row[[parts$status$name]]
-  display_input[["firstReleased"]] <- part_row[[parts$status$name]]
+  display_input[["firstReleased"]] <- part_row[[parts$first_released$name]]
   display_input[["lastUpdated"]] <- part_row[[parts$last_updated$name]]
   
   # Escape any backticks in desc and inst

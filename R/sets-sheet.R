@@ -10,8 +10,8 @@ sets <- list(
   set_type = list(
     name = "setType",
     categories = list(
-      dict_set = "dictSet",
-      mma_set = "mmaSet"
+      dict_set = "dictSets",
+      mma_set = "mmaSets"
     )
   )
 )
