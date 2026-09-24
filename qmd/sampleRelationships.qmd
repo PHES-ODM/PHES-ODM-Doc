@@ -43,7 +43,7 @@ Where `sampleRelationshipsID` exists as a primary key and unique reference for e
 [sampleIDSubject] is a [relationshipID] of [sampleIDObject]
 ```
 
-The acceptable values for relationshipID are the following at the moment, though some more could be added to the dictionary of the need arises: (to request an new part to be added to the PHES-ODM, create a [new issue](https://github.com/Big-Life-Lab/PHES-ODM/issues/new/choose) on the GitHub repository, or fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScJoxXzRT86h8ToddG2LZa8c1AGfxQM9SG9sDx7Zr2AoNEdSw/viewform?usp=sharing&ouid=108384693366853895220))
+The acceptable values for relationshipID are the following at the moment, though more could be added to the dictionary if the need arises. To request a new part, open a [new issue](https://github.com/PHES-ODM/PHES-ODM/issues/new/choose) on the dictionary's GitHub repository or start a topic on the [PHES-ODM Discourse forum](https://odm.discourse.group).
 
 ``` js
     - child
